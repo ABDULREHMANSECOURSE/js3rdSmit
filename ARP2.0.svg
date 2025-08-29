@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="300" height="300">
+  
+  <!-- Left slant line (A) -->
+  <path d="M140 380 L250 130 L290 130 L180 380 Z" fill="white"/>
+  
+  <!-- R shape -->
+  <path d="M280 130 H370 
+           Q420 130 420 180 
+           Q420 230 370 230 H300 
+           L390 380 H340 L260 230 V130 Z" fill="white"/>
+</svg>
